@@ -12,6 +12,7 @@
 
 ### <a href="">🔴 Nível: Muito difícil</a>
 -->
+
 ---
 
 🐍 Exercícios de lógica de programação em Python.
